@@ -1,0 +1,15 @@
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.csproj.AssemblyReference.cache
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.GeneratedMSBuildEditorConfig.editorconfig
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.AssemblyInfoInputs.cache
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.AssemblyInfo.cs
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.csproj.CoreCompileInputs.cache
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\bin\Debug\net7.0\PlancherExpert.exe
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\bin\Debug\net7.0\PlancherExpert.deps.json
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\bin\Debug\net7.0\PlancherExpert.runtimeconfig.json
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\bin\Debug\net7.0\PlancherExpert.dll
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\bin\Debug\net7.0\PlancherExpert.pdb
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.dll
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\refint\PlancherExpert.dll
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.pdb
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\PlancherExpert.genruntimeconfig.cache
+C:\TRAVAUX COURS\PlancherExpert\PlancherExpert\obj\Debug\net7.0\ref\PlancherExpert.dll
